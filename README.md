@@ -1,5 +1,6 @@
 # LabelMarker
 A small tools for marking training set label in machine learning
+训练集的手动标注页面，每次会随机的跳出一个未标注过的词条, 手动标注的结果会追加到相应文件末尾
 
 ## Install
 
